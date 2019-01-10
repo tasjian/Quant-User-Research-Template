@@ -1,21 +1,7 @@
-# NLP Examples
+# Quantitative User Research using NLP Techniques
 
-Tutorial to introduce NLP techniques
-
-## Getting Started
-
-Copy the notebook to your own computer and change the inputs in the user-entered parameters block
-
-### Prerequisites
-
-You need to have the following installed:
-1. Python 3.x
-2. NLTK
-3. WordCloud
-4. Collections
-5. Matplotlib
-6. Gensim
-7. PyLDAvis
+This was a pilot study of 3 test subjects. Sampling size is too small to draw statistically valid conclusions.
+Test was conducted with an interactive prototype following a script as read by a moderator and following a talk-aloud protocol. Test sessions were recorded and annotated using notes and hashtags
 
 
 ## Built With
