@@ -17,12 +17,6 @@ You need to have the following installed:
 6. Gensim
 7. PyLDAvis
 
-If you want to follow with the same text example, you can get this wine review dataset from Kaggle: https://www.kaggle.com/zynicide/wine-reviews
-
-```
-You can confirm you have these installed already by running the first block of code
-```
-
 
 ## Built With
 
