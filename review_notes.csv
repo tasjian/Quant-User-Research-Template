@@ -1,0 +1,107 @@
+Video Version,Note,hashtag
+Justin Burrell,electrical engineer and Pi Admin at Springerville generating station,
+Justin Burrell,#expectation. User expects to ctrl+click to multi select.,#discoverability
+Justin Burrell,#discoverability User searched for a button to view in ad hoc but then used context menu when button wasn't obvious,#expectation
+Justin Burrell,"#discoverability user looking for tooltip on hover.  ""I can't even tell what that symbol is""",#workflow
+Justin Burrell,#expectation Workflow from selection to ad hoc is what user expected.,#comprehension
+Justin Burrell,#workflow #discoverability User tries to/expects to drag attribute to display,#expectation
+Justin Burrell,#comprehension Confused about click on attribute in search; wondering if this is a way to change the name of the attribute.,#expectation
+Justin Burrell,"#expectation User notices checkmark on ""add to ad hoc"" via context menu.  Correctly understands ""add"" vs ""open""",#expectation:
+Justin Burrell,#expectation User opens ad hoc from search via the button in the search results attribute menu,#usecase
+Justin Burrell,#expectation: expects to be able to show/hide via click on label.,#expectation
+Justin Burrell,"#usecase would like to see min, max, avg on hover on attribute label.  Change scale on right click",#expectation
+Justin Burrell,#expectation #usecase expects to be able to add data to ad hoc if he removes all.  He sees a distinction between closing out of ad hoc and remove all.  Expects search in ad hoc,#expectation
+Justin Burrell,#expectation #usecase wants to be able to select via drag box.,#discoverability
+Justin Burrell,"#expectation expects ""add to ad hoc"" context menu to add to  and open ad hoc.",#expectation
+Justin Burrell,#discoverability toggling between ad hoc and display isn't clear.,#usecase
+Justin Burrell,#expectation #use case: wants to be able to have ad hoc and display open and drag data onto ad hoc,#usecase
+Justin Burrell,#usecase it would be nice to work with 2-3 ad hoc trends open at the same time.,#comment
+Justin Burrell,"#usecase in the case of multiple ad hocs, wants to be able to adjust each windows time frame independently.",#usecase:
+Justin Burrell,"#comment ""if I was going to save it, I'd probably just make a display""",#usecase
+Justin Burrell,#usecase: wants to be able to compare an asset to itself at an earlier point in time.  This is one of the things we do the most.  #usecase: wants to overlay assets; likes idea of a gantt chart for this.,#usecase
+Justin Burrell,"#usecase wants to be able to overlay trends with different time frames (i.e. x-axes).  Time frames would likely be of the same duration.  For example, no need to compare 10 min to 1 hr.",#expectation:
+Justin Burrell,"#usecase #expectation ""If I hadn't saved it, I wouldn't expect it to be there.""  (referring to multiple windows, tabs). Wants to see changes in one tab/win on the same machine updated in other open tabs/windows.",#workflow:
+Justin Burrell,"#expectation: use PB displays as ""native"".  Ad hoc would function same as w everything else.",#painpoint:
+Justin Burrell,#workflow: can only trend one point at a time in ad hoc.,#workflow
+Justin Burrell,"#painpoint: ""they'll try to use the search but it doesn't always bring up what they're looking for.""  Search isn't really functional.",#painpoint
+Justin Burrell,#workflow they set up their displays to mimic other things that tthe users are already used to.  They mostly browse.  But it's not clear if they browse because search doesn't work.,#usecase
+Justin Burrell,#painpoint text search for an exactly matching name DOESN'T WORK.,#usecase:
+Justin Burrell,#usecase . would like to be able to search displays for a tag,#usecase:
+Justin Burrell,"#usecase: need to be able to search by criteria (i.e. units = Mw, Asset = ABC, etc.",#painpoint:
+Justin Burrell,"#usecase: being able to select timeseries data in a trend and search for matches would be ""very beneficial"".",#usecase
+Justin Burrell,#painpoint: can't see units on Y-axis.  Also wants to be able to see the ticks on the axis (and show/hide y axis),#usecase
+Justin Burrell,#usecase wants to be able to show hide multiple Y axis,#usecase
+Justin Burrell,#usecase would be nice to place Y axis on left or right,#expectation
+Justin Burrell,"#usecase wants to see min, max, avg when hovering on a trend line or legend item",#usecase
+Justin Burrell,#expectation multiple cursors.  Wants to see deltas between cursor locations.,#expectation:
+Justin Burrell,"#usecase wants to be able to drag and drop between screen, analysis sessions. This functionality is important whether it's done with drag and drop or not.  Better than not having it.  However, DnD is preferred.",#usecase
+Justin Burrell,#expectation: ad hoc windows are separate.  Not different instances of the same data.  Wants to be able to detach (ie unpin) a window either within app or within browser and drag it away (same functionality as browser unpinning tabs),#usecase:
+Justin Burrell,"#usecase operators are using tablet PCs running windows 10 for manual logging. ""They can see the effect of what they've changed right there.""  This is the main mobility use case.",#usecase:
+Justin Burrell,"#usecase: wants to use Pi Cloud Connect to transfer data. ""Don't want to have to send an Excel file every week.""",#expectation:
+Justin Burrell,"#usecase: needs to be able to share ad hoc with coworkers ""Absolutely"". Right now I copy the URL and send it over to them"".  Usually it's put in report.  It doesn't happen very often.",#comment
+Justin Burrell,#expectation: beneficial to share a display (or ad hoc?) as it is; not specific parts or states of it.,#pain
+Justin Burrell,"#comment ""I would assume saving an ad hoc would technically make it a display""",#usecase
+Clark Hite,She is not very familiar with PI Vision; finds it frustrating and does not use it often. #pain,#comment
+Clark Hite,"She uses troubleshooting to find out what happened, why it happened, and in what order it happened. #usecase",#usecase
+Clark Hite,She works very closely with operators. Sometimes they will call her group before calling their supervisors. #comment,#comment
+Clark Hite,Operators have 15-20 monitors with PI data shown in ProcessBook or PARCview. #usecase,#workflow
+Clark Hite,5/5 familiarity with ad hoc analysis #comment,#expectation
+Clark Hite,She used the context menu to add selected symbols to ad hoc analysis. #workflow,#discoverability
+Clark Hite,"She expected that ""something should pop up"" when she added symbols to ad hoc analysis. #expectation",#expectation
+Clark Hite,"When prompted for another way to open her ad hoc workspace, she responded with ""double-click"". #discoverability #workflow",#discoverability
+Clark Hite,She expected informational tooltips to appear when hovering over icons in the action toolbar. #expectation,#workflow
+Clark Hite,She could not figure out how to view the ad hoc analysis after adding data to it. #discoverability,#workflow
+Clark Hite,She wanted to change the display time using the duration button. #workflow,#discoverability
+Clark Hite,She used the context menu to add the attribute search result to her ad hoc analysis. #workflow,#discoverability
+Clark Hite,She could not tell whether adding a search result to ad hoc analysis was successful. #discoverability #confused,#discoverability
+Clark Hite,"She observed that the ad hoc analysis icon did not turn orange after adding a search result to ad hoc, and she did not know why. #discoverability #confused",#discoverability
+Clark Hite,"When prompted, she located the ""add to ad hoc"" icon in the search pane. #discoverability",#expectation
+Clark Hite,She tried to close ad hoc using the trend revert button. #discoverability,#discoverability
+Clark Hite,She expected to see a close button on the ad hoc display. #expectation #workflow,#discoverability
+Clark Hite,She did not expect that clicking the orange ad hoc icon would toggle it off. #discoverability,#expectation
+Clark Hite,"She thought the magnifying glass on the ad hoc icon indicated zooming behavior. Once known, it's okay. #discoverability",#expectation
+Clark Hite,She understood the trend scale options. #expectation,#workflow
+Clark Hite,The show/hide behavior for traces was as expected. #expectation,#workflow
+Clark Hite,Trend cursors are important to her. #workflow #comment,#workflow
+Clark Hite,She needs to be able to zoom in on a region with trend cursor. #workflow,#quote
+Clark Hite,She wants the ability to change trace scales independently with custom ranges. #workflow,#workflow
+Clark Hite,"""It would be nice to see a box with statistics for the time period that I have."" #quote",#workflow
+Clark Hite,"She uses min, max, avg statistics in ProcessBook. #workflow",#usecase
+Clark Hite,She wants the ability to shift a trace in time independently from other traces. #workflow,#workflow
+Clark Hite,"Data can be at different parts of the process. To see how an asset upstream affects an asset downstream, you'd need to offset the times. #usecase",#expectation
+Clark Hite,She wants to add data from multiple displays to the same ad hoc trend. #workflow,#workflow
+Clark Hite,Symbol selection should be cleared after adding the symbols to ad hoc. #expectation,#usecase
+Clark Hite,She wants to select multiple symbols using rubber band selection. #workflow,#usecase
+Clark Hite,She often has 5-7 ProcessBook displays open at one time. #usecase,#usecase
+Clark Hite,Operators open multiple displays but switch between them. #usecase,#workflow
+Clark Hite,Trending is 90% of what they do. #usecase,#expectation
+Clark Hite,Having an easy way to set custom scale limits is very important to her. #workflow,#workflow
+Clark Hite,She wants ad hoc trend settings to be persisted when she returns to the ad hoc display. #expectation #workflow,#workflow
+Clark Hite,"She almost never uses the ""Database"" scales option. #workflow",#workflow
+Clark Hite,"In PARCview, she can pan the time axis and y-axis for an individual trace to easily overlay data with other traces. #workflow",#workflow
+Clark Hite,She likes to change trace colors in PARCview trends. #workflow,#workflow
+Clark Hite,She can change scale min/max values in a tabular format in PARCview. #workflow,#usecase
+Clark Hite,She wants to be able to drag/drop data between ad hoc trends. #workflow,#usecase
+Clark Hite,She uses XY plot functionality in PARCview to see correlations. #usecase,#workflow
+Clark Hite,She uses multiple cursors in ProcessBook to see deltas in time and changes in data between two points in time. #usecase,#comment
+Clark Hite,She uses more than two trend cursors simultaneously. Two could be sufficient if more are not available. #workflow,#pain
+Clark Hite,She likes trace highlighting in ProcessBook. #comment,#workflow
+Clark Hite,"She has over 100,000 tags. She cannot expect anyone to find things when searching by tag name. #pain",#workflow
+Clark Hite,Important data is shown together on displays so that people can find things without searching. #workflow,#workflow
+Clark Hite,They use ad hoc calculations often in ProcessBook. #workflow,#usecase
+Clark Hite,She wants to show ad hoc calculations on ad hoc trend. #workflow,#workflow
+Clark Hite,They look at a 5x5 grid of trends every morning to see how things are performing. #usecase,#usecase
+Clark Hite,"They use XY plot, but it's not a big deal to support this. She sometimes uses Excel so that she can see regression curves. #workflow",#workflow
+Clark Hite,She would like to be able to save ad hoc trends so that she can look at them again later. #usecase,#expectation
+Clark Hite,She doesn't care if the ad hoc trend is saved as an ad hoc trend or as a display as long as she can see the trend later. #workflow,#pain
+Clark Hite,"If she leaves an ad hoc display, she expects that it will be thrown away. #expectation",#workflow
+Clark Hite,PI Vision on her phone is not user friendly. #pain,#pain
+Clark Hite,She uses her phone to remote into her machine. #workflow,#workflow
+Clark Hite,PI Vision mobile doesn't give her enough control over time ranges and multiple trends. #pain,#usecase
+Clark Hite,She needs to be able to drill down into more detailed data when investigating issues at her plant. #workflow,#usecase
+Clark Hite,"A common question during ad hoc investigations is, ""How does this situation compare with the last time this happened?"" #usecase",#pain
+Clark Hite,"Once she finds a tag for a piece of equipment, she often wants to see other data for that asset. #usecase #workflow",#usecase
+Clark Hite,Database values for min/max are often not helpful because they are rarely configured properly. #pain,#pain
+Clark Hite,Database min/max are mostly used to configure multistate limits. #usecase,#workflow
+Clark Hite,It is very time consuming to set database limits for thousands of tags. #pain,#VALUE!
+Clark Hite,"Scales workflow is to start with ""Auto"" and specify custom values based on these values. #workflow",#VALUE!
